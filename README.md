@@ -15,6 +15,7 @@ This project uses:
 - Random Forest Classification
 
 The audio files are processed to extract MFCC features, which are then used to train a machine learning model for emotion classification.
+Due to Github Storage limitations only a sample of the RAVDESS DATASET (Actor_24) is included, but for the output I have included all Actor_01 to Actor_24
 
 ---
 
